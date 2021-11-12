@@ -1,0 +1,59 @@
+
+body{
+    
+    background-color:rgb(235, 232, 232);
+    
+    }
+    .Search{
+   
+    text-align:center;
+    height: 220px;
+    
+    font-size: medium;
+    }
+
+    .Search li{
+    
+    margin-left:4% ;
+    margin-right:4% ;
+    list-style-type: none;
+    }
+    
+    .Search li a{
+    font-size: 24px;
+    
+    }
+   .row1 td{
+       
+        border:1px solid black;
+        background-color: yellow;
+    
+  
+   }
+   .row2 td{
+    border:1px solid black;
+    background-color: lightpink;
+   }
+
+    .col3 dl{
+        
+
+border: solid red;
+margin-left: -3%;
+
+    }
+
+
+.row3 li{
+
+text-decoration: none;
+border :  solid yellow; 
+display: inline-table;
+width: 20%;
+height: 300px;
+text-align: center;
+}
+
+    
+
+   
